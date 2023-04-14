@@ -1,0 +1,1 @@
+# MATLAB-Control-and-Trajectory-Planning-for-a-Motoman-MH3F-robot
